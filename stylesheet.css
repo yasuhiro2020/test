@@ -1,0 +1,99 @@
+/* border:5px solid black; */
+
+body{
+ margin:0;
+ font-family:"Hiragino Kaku Gothic PronN";
+}
+a{
+ text-decoration:none;
+}
+
+.container{
+ width:100%;
+ height: 25px;
+ margin:0 auto;
+ }
+ 
+ 
+.top-wrapper{
+ width:960px;
+ margin:0 auto;
+ height:500px;
+ margin-top:30px; 
+ background-image: url(img/top0710.png);
+ background-size:100% ;
+ background-repeat:no-repeat;
+ background-position:center center ;
+ 
+}
+
+
+.top-wrapper h1{
+font-size:60px;
+line-height:1;
+font-family: 'Corben', cursive;
+margin-top:10px;
+padding:140px 0 100px 20px;
+color:#ffffff;
+}
+
+
+.header-left{
+ float:left;
+ margin:10px;
+ padding:5px;
+ font-size:20px;
+ font-family: 'Corben', cursive;
+}
+
+.header-right{
+ float:right;
+ margin:10px;
+ padding:5px;
+ font-size:20px;
+ font-family: 'Corben', cursive;
+}
+
+.main{
+text-align:center;
+padding-bottom:10px;
+}
+
+.heading{
+ padding-top:10px;
+ font-size:20px;
+ font-family: 'Yu Mincho';
+ }
+
+.sercret-point{
+ float:left;
+ width:31%;
+ margin:10px 10px;
+ }
+
+.sercret-tytle{
+font-size:25px;
+font-family: 'Yu Mincho';
+font-weight:bold;
+}
+
+.text-contents{
+text-align:center;
+}
+
+#contact-form{
+	clear:both;
+}
+
+.foot{
+text-align: center;
+height:20px;
+background-color:#87CEEB;
+}
+
+.foot p{
+ font-size:5px;
+ font-weight:bold;
+ font-family: 'Yu Mincho';
+ letter-spacing:5px;
+ }
